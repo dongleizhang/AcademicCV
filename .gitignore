@@ -1,3 +1,2 @@
-
-*.log
-*.gz
+.texpadtmp/
+.DS_Store
